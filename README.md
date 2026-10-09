@@ -180,7 +180,7 @@ The proposed framework aims to:
 
 ## 10. References
 
-Relevant scientific publications and technical documentation will be collected in `docs/references.md`.
+Relevant scientific publications and technical documentation will be collected in `[View References](docs/references.md)`.
 
 The references will cover:
 
